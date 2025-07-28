@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 - 🔬 **Analog VLSI Design**
   - Hands-on experience with SkyWater 130nm & GF180MCU PDKs
-  - Designed OTAs, Custom Op-Amps
+  - Desiging OTAs, Custom Op-Amps
   - Toolchain: Xschem, Ngspice, Magic VLSI, Netgen, OpenVAF
 
 - ⚡ **Embedded Systems & IoT**
