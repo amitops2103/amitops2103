@@ -80,7 +80,6 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitops2103&theme=aura_dark)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitops2103&theme=aura_dark)
 ![Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitops2103&theme=aura_dark)
-![Activity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitops2103&theme=aura_dark&utcOffset=8)
 
 ---
 
