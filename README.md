@@ -37,10 +37,6 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - Real-time ESP32 WebSocket-based control
   - Future scope: gesture control, inverse kinematics
 
-- 🔄 **Dynamic Ring Amplifier (Mosbius Concept)**
-  - Reconfigurable topology for filters, pipelined ADCs
-  - Built under SkyWater PDK using Xschem, Ngspice, Magic
-
 - 🔍 **5T OTA Design**
   - Gain > 200 V/V, input CM = 2.2–2.7V, output CM ≈ VDD/2
   - Built using 6V devices on GF180MCU
@@ -51,12 +47,18 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - AI logic for acceleration, fire, shield, and cloak decisions  
   - Dynamic decision-making based on energy, health, and enemy visibility  
   - Verilog module integrated with testbench to simulate strategy control
-    
+
+- 🧠 **Analog_IC Design**  
+  Full-custom analog circuit design workflow using **SkyWater 130nm PDK**  
+  - Schematic, simulation, layout, DRC, and LVS for analog blocks  
+  - Designed and verified: Inverter, differential pair, OTA, current mirror  
+  - Tools: **Xschem**, **Ngspice**, **Magic VLSI**, **Netgen**
+
 ---
 
 ## 🧠 Skills
 
-- **EDA Tools**: Xschem, Ngspice, Magic VLSI, Netgen, OpenVAF
+- **EDA Tools**: Xschem, Ngspice, iVerilog, Yosys, Magic VLSI, Netgen, OpenVAF
 - **HDL & Verification**: Verilog, SystemVerilog (basic), Cocotb
 - **Embedded & IoT**: ESP32, Arduino, Blynk, OLED, Sensors
 - **Programming**: Python, C/C++, MATLAB, KNIME
