@@ -61,7 +61,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 - **EDA Tools**: Xschem, Ngspice, iVerilog, Yosys, Magic VLSI, Netgen, OpenVAF
 - **HDL & Verification**: Verilog, SystemVerilog (basic), Cocotb
-- **Embedded & IoT**: ESP32, Arduino, Blynk, OLED, Sensors
+- **Embedded & IoT**: ESP32, Arduino, Blynk, OLED, Sensors, Google Appscript
 - **Programming**: Python, C/C++, MATLAB, KNIME
 - **ML Deployment**: KNIME workflows integrated with Google Sheets
 - **PCB Design**: KiCad (basic)
