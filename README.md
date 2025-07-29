@@ -48,10 +48,11 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - Dynamic decision-making based on energy, health, and enemy visibility  
   - Verilog module integrated with testbench to simulate strategy control
 
-- 🧠 **Analog_IC Design**  
+- 🧠 **USB-MIDI Microphone Analog Front-End**  
   Full-custom analog circuit design workflow using **SkyWater 130nm PDK**  
-  - Schematic, simulation, layout, DRC, and LVS for analog blocks  
-  - Designed and verified: Inverter, differential pair, OTA, current mirror  
+  - Schematic, simulation, layout, DRC, and LVS for analog blocks
+  - Desiging a low-noise preamplifier using TI OPA344 equivalent in CMOS.
+  - Targeted application in plug-n-play USB-MIDI microphone systems 
   - Tools: **Xschem**, **Ngspice**, **Magic VLSI**, **Netgen**
 
 ---
