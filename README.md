@@ -71,7 +71,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amit-kumar-sharma-8a79b4222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuhQQLrElTjeNj5h7kzSw8A%3D%3D)  
-- ✍️ [Portfolio / Blog](#coming-soon)  
+- ✍️ [Portfolio / Blog] (coming-soon)  
 - 📧 Email: amit.ops2020@gmail.com
 
 ---
