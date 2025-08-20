@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - Desiging OTAs, Custom Op-Amps
   - Toolchain: Xschem, Ngspice, Magic VLSI, Netgen, OpenVAF
 
-- ⚡ **Embedded Systems & IoT**
+- ⚡ **IoT**
   - ESP32-based energy meters (dual-load, Google Sheets + Blynk integration)
   - Built 6-DOF robotic arm with Bluetooth & WebSocket control
 
@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 - **EDA Tools**: Xschem, Ngspice, iVerilog, Yosys, Magic VLSI, Netgen, OpenLANE
 - **HDL & Verification**: Verilog, SystemVerilog (basic), Cocotb
-- **Embedded & IoT**: ESP32, Arduino, Blynk, OLED, Sensors, Google Appscript
+- **IoT**: ESP32, Arduino, Blynk, OLED, Sensors, Google Appscript
 - **Programming**: Python, C/C++, MATLAB
 - **PCB Design**: KiCad (basic)
 
