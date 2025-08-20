@@ -31,17 +31,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - Real-time power monitoring and cloud logging (Blynk + Sheets)
   - Dual-load measurement with OLED visualization
   - Integrated ML model via KNIME
-
-- 🤖 **6-DOF Robotic Arm**
-  - Controlled via Android App (MIT App Inventor + Bluetooth)
-  - Real-time ESP32 WebSocket-based control
-  - Future scope: gesture control, inverse kinematics
-
-- 🔍 **5T OTA Design**
-  - Gain > 200 V/V, input CM = 2.2–2.7V, output CM ≈ VDD/2
-  - Built using 6V devices on GF180MCU
-  - Compact layout with minimal parasitics
-
+    
 - 🛰️ **Space Battle AI Control System**  
   Developed a Verilog-based real-time control system for a 3-ship space battle simulation  
   - AI logic for acceleration, fire, shield, and cloak decisions  
