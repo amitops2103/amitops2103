@@ -15,7 +15,6 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 - ⚡ **Embedded Systems & IoT**
   - ESP32-based energy meters (dual-load, Google Sheets + Blynk integration)
-  - Real-time ML analytics using KNIME + Google Sheets
   - Built 6-DOF robotic arm with Bluetooth & WebSocket control
 
 - 💻 **Digital Design & Verification**
@@ -30,7 +29,6 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 - 🔋 **Smart Energy Meter** (ESP32 + SCT-013/ZMPT101B sensors)
   - Real-time power monitoring and cloud logging (Blynk + Sheets)
   - Dual-load measurement with OLED visualization
-  - Integrated ML model via KNIME
     
 - 🛰️ **Space Battle AI Control System**  
   Developed a Verilog-based real-time control system for a 3-ship space battle simulation  
@@ -49,11 +47,10 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 ## 🧠 Skills
 
-- **EDA Tools**: Xschem, Ngspice, iVerilog, Yosys, Magic VLSI, Netgen, OpenVAF
+- **EDA Tools**: Xschem, Ngspice, iVerilog, Yosys, Magic VLSI, Netgen, OpenLANE
 - **HDL & Verification**: Verilog, SystemVerilog (basic), Cocotb
 - **Embedded & IoT**: ESP32, Arduino, Blynk, OLED, Sensors, Google Appscript
-- **Programming**: Python, C/C++, MATLAB, KNIME
-- **ML Deployment**: KNIME workflows integrated with Google Sheets
+- **Programming**: Python, C/C++, MATLAB
 - **PCB Design**: KiCad (basic)
 
 ---
