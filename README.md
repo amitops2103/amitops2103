@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - Toolchain: Xschem, Ngspice, Magic VLSI, Netgen, OpenVAF
 
 - ⚡ **IoT**
-  - ESP32-based energy meters (dual-load, Google Sheets + Blynk integration)
+  - ESP32-based energy meters (multi-load, Google Sheets + Blynk integration)
   - Built 6-DOF robotic arm with Bluetooth & WebSocket control
 
 - 💻 **Digital Design & Verification**
@@ -26,9 +26,9 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 ## 🚀 Projects
 
-- 🔋 **Smart Energy Meter** (ESP32 + SCT-013/ZMPT101B sensors)
+- 🔋 **Smart Energy Meter** (ESP32 + SCT-013 + ZMPT101B sensors)
   - Real-time power monitoring and cloud logging (Blynk + Sheets)
-  - Dual-load measurement with OLED visualization
+  - Multi-load measurement with OLED visualization
     
 - 🛰️ **Space Battle AI Control System**  
   Developed a Verilog-based real-time control system for a 3-ship space battle simulation  
