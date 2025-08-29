@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
   - Toolchain: Xschem, Ngspice, Magic VLSI, Netgen
 
 - 💻 **Digital Design & Verification**
-  - RTL Design in Verilog (e.g., 8-point FFT, spacecraft control logic)
+  - RTL Design in Verilog
   - Functional verification using **Cocotb** (SPI, 7-segment display decoding)
   - VLSI competitions: Makerchip ASIC Design Showdown 2025 participant
   
@@ -25,22 +25,22 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 
 ## 🚀 Projects
 
-- 🔋 **Smart Energy Meter** (ESP32 + SCT-013 + ZMPT101B sensors)
-  - Real-time power monitoring and cloud logging (Blynk + Sheets)
-  - Multi-load measurement with OLED visualization
-    
-- 🛰️ **Space Battle AI Control System**  
-  Developed a Verilog-based real-time control system for a 3-ship space battle simulation  
-  - AI logic for acceleration, fire, shield, and cloak decisions  
-  - Dynamic decision-making based on energy, health, and enemy visibility  
-  - Verilog module integrated with testbench to simulate strategy control
-
 - 🧠 **USB-MIDI Microphone Analog Front-End  (ongoing)**  
   Full-custom analog circuit design workflow using **SkyWater 130nm PDK**  
   - Schematic, simulation, layout, DRC, and LVS for analog blocks
   - Desiging a low-noise preamplifier using TI OPA344 equivalent in CMOS.
   - Targeted application in plug-n-play USB-MIDI microphone systems 
   - Tools: **Xschem**, **Ngspice**, **Magic VLSI**, **Netgen**
+
+- 🛰️ **Space Battle AI Control System**  
+  Developed a Verilog-based real-time control system for a 3-ship space battle simulation  
+  - AI logic for acceleration, fire, shield, and cloak decisions  
+  - Dynamic decision-making based on energy, health, and enemy visibility  
+  - Verilog module integrated with testbench to simulate strategy control
+
+- 🔋 **Smart Energy Meter** (ESP32 + SCT-013 + ZMPT101B sensors)
+  - Real-time power monitoring and cloud logging (Blynk + Sheets)
+  - Multi-load measurement with OLED visualization
 
 ---
 
