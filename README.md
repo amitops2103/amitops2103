@@ -11,17 +11,16 @@ Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & M
 - 🔬 **Analog VLSI Design**
   - Hands-on experience with SkyWater 130nm & GF180MCU PDKs
   - Desiging OTAs, Custom Op-Amps
-  - Toolchain: Xschem, Ngspice, Magic VLSI, Netgen, OpenVAF
-
-- ⚡ **IoT**
-  - ESP32-based energy meters (multi-load, Google Sheets + Blynk integration)
-  - Built 6-DOF robotic arm with Bluetooth & WebSocket control
+  - Toolchain: Xschem, Ngspice, Magic VLSI, Netgen
 
 - 💻 **Digital Design & Verification**
   - RTL Design in Verilog (e.g., 8-point FFT, spacecraft control logic)
   - Functional verification using **Cocotb** (SPI, 7-segment display decoding)
   - VLSI competitions: Makerchip ASIC Design Showdown 2025 participant
-
+  
+- ⚡ **IoT**
+  - ESP32-based energy meters (multi-load, Google Sheets + Blynk integration)
+  - Built 6-DOF robotic arm with Bluetooth & WebSocket control
 ---
 
 ## 🚀 Projects
