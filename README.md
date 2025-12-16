@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Amit Kumar Sharma
 
-Welcome to my GitHub! I'm an Electronics Undergrad passionate about **Analog & Mixed-Signal VLSI Design**, **Embedded Systems**, and **Hardware-Software Co-Design**. I enjoy building systems from the ground up — from transistor-level circuit design to real-time IoT integrations.
+Welcome to my GitHub! I'm an Electronics Undergrad passionate about **VLSI Design**, **IOT Design**, and **Hardware-Software Co-Design**. I enjoy building systems from the ground up — from transistor-level circuit design to real-time IoT integrations.
 
 ---
 
